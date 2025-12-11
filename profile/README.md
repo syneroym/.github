@@ -1,7 +1,7 @@
 # Syneroym
-Autonomous Cooperative value exchange
+Autonomous Cooperative Value Exchange
 
-Syneroym brings together ideas and technology to facilitate value exchange between autonomous cooperating peers.
+Syneroym unites ideas and technology to facilitate value exchange among autonomous cooperating peers, enabling synergetic outcomes to emerge.
 
 <!--
 
